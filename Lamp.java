@@ -8,6 +8,7 @@ public class Lamp {
 		
 		this.isOn =isOn;
 		int x;
+		int y;
 	}
 	
 	public void turnOnLamp() {
